@@ -14,6 +14,7 @@ and the user tries to guess it. The program gives hints if your guess is too hig
 
 2. Navigate to the project folder
 
-3. Type `python game.py`
+3. Type py game.py
 
 4. Play the game!
+
