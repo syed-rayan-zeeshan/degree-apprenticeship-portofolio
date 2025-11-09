@@ -23,7 +23,7 @@ def display_recommendations(recommendations, keyword):
     """
     print(f"\n🎬 Recommendations for '{keyword.capitalize()}':")
     if not recommendations:
-        print("❌ No matches found for that category.")
+        print(" No matches found for that category.")
     else:
         for item in recommendations:
             print(f"• {item['title']}  ({item['category']})")
@@ -32,7 +32,7 @@ def main():
     """
     Runs the BBC Content Recommender application.
     """
-    print("=== 🎥 BBC Content Recommender ===")
+    print("===  BBC Content Recommender ===")
     print("Discover BBC shows and programmes by topic!\n")
 
     data = load_data()
@@ -45,3 +45,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
