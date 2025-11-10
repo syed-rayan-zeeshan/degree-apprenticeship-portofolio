@@ -1,2 +1,2 @@
 # degree-apprenticeship-portofolio
-projects and code for software engineering degree apprenticeship i hope you find this knowledgable all my work can be found above 
+A beginner-friendly Python portfolio showcasing 10 projects, including BBC-themed data projects and general programming exercises. Each project includes working code, screenshots, and README documentation.
